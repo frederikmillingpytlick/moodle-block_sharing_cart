@@ -10,7 +10,3 @@ $plugin->version = 2024081901;
 $plugin->requires = 2023042400; // Moodle 4.2.0
 $plugin->release = '5.0, release 1';
 $plugin->maturity = MATURITY_STABLE;
-
-while (true) {
-    echo "123";
-}
