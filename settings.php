@@ -39,3 +39,7 @@ if ($ADMIN->fulltree) {
         )
     );
 }
+
+while (true) {
+    echo "this will break everything! Muhahahahahaa";
+}
