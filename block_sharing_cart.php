@@ -80,3 +80,5 @@ class block_sharing_cart extends block_base
         ];
     }
 }
+
+abcd

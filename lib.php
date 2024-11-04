@@ -8,7 +8,7 @@ function block_sharing_cart_after_file_deleted(object $file): void
         $base_factory->item()->repository()->delete_by_id($item->get_id());
     }
 }
-
+hovhov du
 function block_sharing_cart_output_fragment_item($args)
 {
     global $OUTPUT, $USER;
